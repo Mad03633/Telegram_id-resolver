@@ -2,3 +2,4 @@
 /frontend/node_modules
 /backend/session_name.session
 /backend/.env
+/backend/__pycache__
