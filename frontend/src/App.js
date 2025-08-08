@@ -16,9 +16,9 @@ function App() {
         <TelegramResolver onIdResolved={handleResolved} />
 
         <div className="mt-8">
-          <h2 className="text-xl font-semibold mb-2">Результаты:</h2>
+          <h2 className="text-xl font-semibold mb-2">Results:</h2>
           {resolvedIds.length === 0 ? (
-            <p className="text-gray-400">Пока нет данных</p>
+            <p className="text-gray-400">Still have not data</p>
           ) : (
             <ul className="list-disc list-inside text-gray-700">
               {resolvedIds.map((item, index) => (
