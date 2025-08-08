@@ -4,7 +4,7 @@
 
 ## Telethon library
 
-- Before initialization, make sure that you created session file and registered in ![https://my.telegram.org/].
+- Before initialization, make sure that you created session file and registered in ![my.telegram.org](https://my.telegram.org/).
 
 - Then put your api id, hash and session path.
 
